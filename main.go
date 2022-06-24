@@ -9,4 +9,7 @@ func main() {
 	fmt.Println("Step 3")
 	fmt.Println("Step 4")
 	fmt.Println("Fix feature")
+
+	fmt.Println("1 Ketuhanan Yang Maha Esa")
+	fmt.Println("2 Lebih Baik")
 }
